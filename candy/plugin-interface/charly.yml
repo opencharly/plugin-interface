@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-interface:
     candy:
-        version: 2026.176.1700
         description: |-
             The `interface` check verb relocated into a candy: probes a network
             interface's presence / MTU / addresses via `ip` on the live deployment. A
